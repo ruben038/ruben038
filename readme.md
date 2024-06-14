@@ -60,7 +60,6 @@
 
 <!-- About Section -->
  # About me
- https://x.com/RubenHouenou?t=BQZwt7aQ9DXT6Za-L2D80Q&s=09
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
